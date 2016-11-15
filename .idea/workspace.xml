@@ -27,8 +27,8 @@
       <file leaf-file-name="example.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/example.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="204">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -221,12 +221,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479207336092</updated>
       <workItem from="1479207337465" duration="4621000" />
-      <workItem from="1479218403769" duration="7590000" />
+      <workItem from="1479218403769" duration="7755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14781000" />
+    <option name="totallyTimeSpent" value="14946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/example.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="204">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
           <folding />
         </state>
       </provider>

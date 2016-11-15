@@ -11,8 +11,6 @@
 module.exports = (robot) ->
   robot.hear /badger/i, (res) ->
     res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
-  robot.hear /fresco/i, (res) ->
-    res.send "Sí, está fresquísimo.
   #
   # robot.respond /open the (.*) doors/i, (res) ->
   #   doorType = res.match[1]
